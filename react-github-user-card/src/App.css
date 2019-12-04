@@ -20,3 +20,16 @@
 .App-link {
   color: #09d3ac;
 }
+
+.newCard{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom:5%;
+ background-color: pink;
+
+ 
+
+  
+}
